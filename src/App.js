@@ -7,7 +7,7 @@ import Thanks from './components/Thanks'
 import {Switch,Route} from "react-router-dom";
 
 export const config = {
-  endpoint: `http://52.66.106.173:8082/api/v1`,
+  endpoint: `https://qkartfrontendv2-ersm.onrender.com/api/v1`,
 };
 
 function App() {
